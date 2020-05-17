@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "damageIndicator", "damageIndicator.csproj", "{AEC1D69D-E609-47E8-A107-84330E8A1205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC1D69D-E609-47E8-A107-84330E8A1205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC1D69D-E609-47E8-A107-84330E8A1205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC1D69D-E609-47E8-A107-84330E8A1205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC1D69D-E609-47E8-A107-84330E8A1205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2BD4218-EC59-4A6C-AB57-2B22A3E9085E}
+	EndGlobalSection
+EndGlobal
